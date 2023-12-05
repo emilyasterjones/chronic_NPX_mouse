@@ -9,12 +9,13 @@ Chronic recoverable implant based off of [(Juavinett et al, 2019)](https://elife
 * Flex holders (go around the PCB and lower part of flex cable)
 * Dome (covers side of shanks opposite the wings)
 * Headstage holder
+* **NEW** Lower profile headstage holder (see 2.1 design folder). This holder sits behind the implant, so the attachments during surgery are substantially shorter (at the expense of losing LED tracking). The holder is mounted during surgery (adds .14g), and you can choose to attach the headstage during surgery as well (adds a total of 1.04g). During recording, simply plug in the Omnetics connector. Optionally, hook a paper clip (attached to a counterweighted pulley) into the hole to relieve some of the weight during recording.
 
 **Versions**
 * Single 1.0 probe
 * Dual 2.0 beta probes
-* Dual 2.0 probes (same as beta probe files, just with updated flex holders and headstage holder)
-* 2.1 design (same as 2.0 builds, but I will be updating these files over time as I test new versions)
+* Dual 2.0 probes (same as beta probe files, just with updated flex holders and headstage holder by Frances Cho and probe + headstage files from Neuropixels)
+* 2.1 design (same as 2.0 builds, but I will be updating these files over time as I test new versions). 
 
 **Possible modifications**
 * If you don't need LED tracking, you can remove the arms of the headstage holder.
